@@ -11,5 +11,5 @@ Steps:
 5. Commit (Check mark) - optionally Undo Last Commit (from ... menu) - then follow from step 3. 
 6. Push 
 
-Right click for side-by-side view
+Right click for side-by-side view // 
 HEAD or TREE (repository) <=> current (local) file 
