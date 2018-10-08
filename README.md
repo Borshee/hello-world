@@ -1,3 +1,5 @@
+* Git workflow links: https://help.github.com/articles/what-is-a-good-git-workflow/
+    VISUALLY: https://guides.github.com/introduction/flow/ 
 * Configure protected branches 
 https://help.github.com/articles/configuring-protected-branches/ 
 * Commit & push (upload) from VS to GH https://help.github.com/articles/configuring-protected-branches/
